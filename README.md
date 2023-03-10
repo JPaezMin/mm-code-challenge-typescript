@@ -33,6 +33,15 @@ npm install
 npm run dev
 ```
 
+### Netlify Site Prod
+
+```sh
+https://brilliant-kulfi-27e554.netlify.app/
+```
+### JSON Server
+
+```npm run server
+```
 ### Type-Check, Compile and Minify for Production
 
 ```sh
