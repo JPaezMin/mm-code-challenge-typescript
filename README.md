@@ -40,7 +40,8 @@ https://brilliant-kulfi-27e554.netlify.app/
 ```
 ### JSON Server
 
-```npm run server
+```sh
+npm run server
 ```
 ### Type-Check, Compile and Minify for Production
 
